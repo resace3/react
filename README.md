@@ -1,4 +1,4 @@
-# Deploying a React App* to GitHub Pages
+# Hello
 
 \* created using `create-react-app`
 
